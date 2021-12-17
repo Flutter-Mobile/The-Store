@@ -6,7 +6,7 @@ This is a shop app, I was using Flutter to build this application :
 #State managment used Bloc.
 #Apis (Dio).
 #Dark mode.
-#Change Languges (English, Arabic).
+#Change Languges (English, Arabic, Russian).
 #beautiful UI and good UX.
 #four onbording screen.
 #Login and register screens.
